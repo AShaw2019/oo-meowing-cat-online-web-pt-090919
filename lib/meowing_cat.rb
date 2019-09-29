@@ -1,2 +1,3 @@
 class Cat 
-  def cat_says(sound)
+  def cat_says=(sound)
+    
