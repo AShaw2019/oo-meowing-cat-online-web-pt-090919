@@ -5,6 +5,7 @@ class Cat
   def cat
     Cat
   end
+end
     attr_reader :sound
   attr_writer :sound
   attr_accessor: "Meow"
