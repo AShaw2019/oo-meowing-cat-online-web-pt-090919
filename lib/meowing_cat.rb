@@ -1,10 +1,10 @@
 class Cat 
   attr_reader :name
   attr_writer :name
-  attr_accessor :Maru
+  attr_accessor :maru
   def cat
     Cat
-    puts "meow!"
+    maru.meow
   end
 end
     
