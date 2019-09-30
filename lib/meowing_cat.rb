@@ -6,5 +6,8 @@ class Cat
     Cat
     maru.meow
   end
+def meow
+  
 end
+
     
