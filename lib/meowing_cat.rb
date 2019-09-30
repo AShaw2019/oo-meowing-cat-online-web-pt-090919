@@ -4,7 +4,7 @@ class Cat
   attr_accessor :maru
   def cat
     Cat
-    maru.meow
+    meow
   end
 def meow
   puts "meow!"
